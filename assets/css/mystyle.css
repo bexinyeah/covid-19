@@ -26,4 +26,5 @@ h1{
 p.text1{
     font-size: 18px;
     line-height: 2rem;
+    letter-spacing: 1.5px;
 }
