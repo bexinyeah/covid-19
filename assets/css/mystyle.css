@@ -5,6 +5,9 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 }
+#hero .btn-get-started{
+	font-family:'Noto Sans TC', sans-serif;
+}
 h1{
 	font-size:24px;
 }
@@ -71,4 +74,14 @@ p.text1{
     position: relative;
     background-color: inherit;
     width: 80%;
+}
+
+a.btn-learn-more{
+	font-family:'Noto Sans TC', sans-serif;
+	font-size: 16px;
+	letter-spacing: 1px;
+	border: 2px solid #3498db;
+	border-radius: 50px;
+	padding: 10px 30px;
+	display: inline-block;
 }
