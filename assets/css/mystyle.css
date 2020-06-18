@@ -40,12 +40,12 @@ p.text1{
 
 .timeline::after {
     content: '';
-    background-color: #4028EB;
+    background-color: #23ACA6;
     position: absolute;
-    width: 6px;
+    width: 3px;
     top: 0;
     bottom: 0;
-    left: 50%;
+    left: 80%;
     margin-left: -3px;
 }
 
@@ -58,17 +58,17 @@ p.text1{
     position: absolute;
     width: 25px;
     height: 25px;
-    right: -12px;
+    right: -11.5px;
     background-color: white;
-    border: 4px solid #4028EB;
+    border: 3px solid #23ACA6;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
 }
 
 .timeline-block {
-    padding: 10px 40px;
+    padding: 15px 40px;
     position: relative;
     background-color: inherit;
-    width: 50%;
+    width: 80%;
 }
