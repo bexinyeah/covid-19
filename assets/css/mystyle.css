@@ -43,7 +43,7 @@ p.text1{
 
 .timeline::after {
     content: '';
-    background-color: #23ACA6;
+    background-color: #4F9BBD;
     position: absolute;
     width: 3px;
     top: 0;
@@ -63,7 +63,7 @@ p.text1{
     height: 25px;
     right: -11.5px;
     background-color: white;
-    border: 3px solid #23ACA6;
+    border: 3px solid #4F9BBD;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
