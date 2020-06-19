@@ -97,4 +97,5 @@ a.btn-learn-more{
 .testimonials .testimonial-item .testimonial-img{
 	width: 100%;
 	position:relative;
+	left:0px;
 }
