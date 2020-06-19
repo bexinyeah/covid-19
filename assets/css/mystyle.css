@@ -90,6 +90,10 @@ a.btn-learn-more{
     background-color:#C6D9E5;
 }
 
+.testimonials .testimonial-item{
+	padding:10px;
+}
+
 .testimonials .testimonial-item .testimonial-img{
 	width: 100%;
 	position:relative;
